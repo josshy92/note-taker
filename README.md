@@ -11,7 +11,7 @@ Live Link: https://josshy92.github.io/note-taker/
 
 Repo: https://github.com/josshy92/note-taker
 
-Heroku: 
+Heroku Link: https://peaceful-hollows-01900.herokuapp.com/ 
 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/88861538/145732694-0f203557-16c2-4d59-9570-fca92c4188c1.png)
