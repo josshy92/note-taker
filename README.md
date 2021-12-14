@@ -7,7 +7,6 @@ Thank you @ tutor A.P. for help with the post function to help save the notes.
 
 ## Links
 
-Live Link: https://josshy92.github.io/note-taker/
 
 Repo: https://github.com/josshy92/note-taker
 
